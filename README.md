@@ -2,7 +2,10 @@
 
 - 📘 Estudante de **Ciência da Computação** apaixonado por tecnologia, lógica e resolução de problemas. Buscando minha primeira oportunidade na área de TI para aplicar meus conhecimentos em desenvolvimento e evoluir continuamente.
 - ---
+📌 Repositórios em Destaque
 
+- 🎓 **unicsul-ciencia-da-computacao**: Repositório central com atividades, algoritmos em C e estudos desenvolvidos durante a graduação.
+  
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Bacharelado em Ciência da Computação** na Universidade Cruzeiro do Sul (2026 - 2029)
