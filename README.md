@@ -20,14 +20,6 @@
 - **Ferramentas e Outros:** Excel, Análise de Dados Básica
 - ---
 
-### 📌 Repositórios em Destaque
-
-- 🐍 **`estudos-python`**: Exercícios, automações e projetos em Python.
-- ⚙️ **`estrutura-de-dados-c`**: Algoritmos e lógica desenvolvidos em C.
-- 🌐 **`web-fundamentals`**: Projetos práticos e páginas criadas com HTML.
-
----
-
 ### 📬 Como me encontrar
 
 - **E-mail:** [lipeoliveira382@hotmail.com](mailto:lipeoliveira382@hotmail.com)
