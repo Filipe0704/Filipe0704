@@ -24,7 +24,6 @@
 ### 📬 Como me encontrar
 
 - **E-mail:** [lipeoliveira382@hotmail.com](mailto:lipeoliveira382@hotmail.com)
-- **Telefone:** (11) 93150-1400
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
