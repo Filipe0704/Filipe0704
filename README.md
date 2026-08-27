@@ -5,7 +5,8 @@
 📌 Repositórios em Destaque
 
 - 🎓 **unicsul-ciencia-da-computacao**: Repositório central com atividades, algoritmos em C e estudos desenvolvidos durante a graduação.
-  
+    - 📄 **[Exemplo: Cálculo de Perímetro (C)](https://github.com/Filipe0704/unicsul-ciencia-da-computacao/blob/main/algoritmos-e-pensamento-computacional/exercicio-aplicacao-01.c)**
+    - 
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Bacharelado em Ciência da Computação** na Universidade Cruzeiro do Sul (2026 - 2029)
