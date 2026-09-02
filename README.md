@@ -5,7 +5,7 @@
 📌 Repositórios em Destaque
 
 - 🎓 **unicsul-ciencia-da-computacao**: Repositório central com atividades, algoritmos em C e estudos desenvolvidos durante a graduação.
-    - 📄 **[Exemplo: Cálculo de Perímetro (C)](https://github.com/Filipe0704/unicsul-ciencia-da-computacao/blob/main/algoritmos-e-pensamento-computacional/exercicio-aplicacao-01.c)**
+    - 📄 **[Arquivos de exercícios em (C)](https://github.com/Filipe0704/unicsul-ciencia-da-computacao/tree/main/algoritmos-e-pensamento-computacional)**
   
 ### 🚀 Sobre Mim
 
